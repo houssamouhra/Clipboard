@@ -5,6 +5,7 @@ Clipboard landing page from Frontend [Frontend Mentor Challenge](https://www.fro
 ## Usage
 
 Install dependencies
+
 ```npm Install```
 
 Run Tailwind CLI
