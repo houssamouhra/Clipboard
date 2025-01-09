@@ -6,8 +6,9 @@ Clipboard landing page from Frontend [Frontend Mentor Challenge](https://www.fro
 
 Install dependencies
 
-```npm Install```
-
+```javascript
+npm Install
+```
 Run Tailwind CLI
 
 ```npm run watch```
