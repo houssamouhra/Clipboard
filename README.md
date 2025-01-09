@@ -11,4 +11,5 @@ npm Install
 ```
 Run Tailwind CLI
 
-```npm run watch```
+```html
+npm run watch
